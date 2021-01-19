@@ -12,16 +12,15 @@
 
 body {
     font-family: "Poppins", sans-serif;
-    overflow-x: hidden;
 }
 
 .container {
     width: 1440px;
-    margin: auto;
+    margin: 0 auto;
     padding-top: 110px;
     padding-left: 240px;
     padding-right: 265px;
-    height: 1409px;
+    overflow: hidden;
 }
 
 
