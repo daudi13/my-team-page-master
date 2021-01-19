@@ -65,5 +65,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@Daudi13](https://{github.com/daudi13})
-- Twitter [@davouma](https://{twitter.com/davouma})
+- GitHub [@Daudi13](https://github.com/daudi13)
+- Twitter [@davouma](https://twitter.com/davouma)
